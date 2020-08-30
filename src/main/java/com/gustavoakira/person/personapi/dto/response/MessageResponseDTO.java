@@ -1,4 +1,4 @@
-package com.gustavoakira.person.personapi.dto;
+package com.gustavoakira.person.personapi.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
